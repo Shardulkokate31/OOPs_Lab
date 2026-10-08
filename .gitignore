@@ -1,0 +1,51 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+a.out
+
+# Object files & libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Debug / build output
+*.pdb
+*.ilk
+*.exp
+*.d
+build/
+bin/
+Debug/
+Release/
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Runtime data files created by practicals (file-handling programs)
+*.dat
+*.bin
+
+# IDE / editor files
+.vscode/
+.idea/
+*.code-workspace
+*.cbp
+*.layout
+*.depend
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & temp
+*.log
+*.tmp
+*.swp
+*~
